@@ -14,6 +14,8 @@ This project is a replica of the Amazon.com website created using HTML and CSS. 
 <h2>Contributions:</h2>
 <ul>Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or submit a pull request.</ul>
 
+<h2>Acknowledgments:</h2>
+Inspiration drawn from the Amazon.com website.
 <h2>Made by</h2>
 <a href="https://github.com/Bishal-5">Bishal Naskar</a>
 
