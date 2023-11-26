@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+/*Navigation Bar Section Start*/
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+/* Box-1 For Amazon Logo */
+.nav-logo{
+    height: 50px;
+    width: 156px;
+}
+.logo{
+    background-image: url(Amazon-Logo.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 99%;
+}
+
+/*For Create Clickable Border*/
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+}
+
+/*Box-2 For Location or Location Logo*/
+.deliver-to{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+.india{
+    font-size: 1rem;
+    margin-left: 3px;
+}
+
+/*For add Location icon*/
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+.nav-address{
+    margin-left: 9px;
+}
+
+/*Box-3 For Search or Search logo*/
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(250, 246, 247);
+    width: 655px;
+    height: 45px;
+    border-radius: 4px;
+    margin-left: 29px;
+    margin-right: -4px;
+}
+.search-all{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+.search-box{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+    padding: 7px 10px 10px 10px;
+}
+/*For add search icon*/
+.search-icon{
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    background-color: #F7BC6D;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: black;
+}
+
+/*For clickable border in search box*/
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
+/*Box-4 For Language*/
+.add-lang{
+    font-size: 1rem;
+    margin-left: 30px;
+    margin-right: -4px;
+    font-weight: 800;
+}
+
+/* Box-5 For Sign in & Account */
+.nav-account{
+    margin-left: 33px;
+    margin-right: 2px;
+}
+span{
+    font-size: 0.7rem;
+}
+.account{
+    font-size: 0.9rem;
+    font-weight: 780;
+}
+
+/*Box-6 For Returns & Orders*/
+.nav-return{
+    margin-left: 29px;
+    margin-right: 8px;
+}
+
+/*Box-7 For Cart*/
+.nav-cart i{
+    font-size: 26px;
+}
+.nav-cart{
+    font-size: 0.9rem;
+    font-weight: 780;
+    margin-left: 23px;
+}
+/*Navigation Bar Section end*/
+
+/*Panel Bar Section Start*/
+.panel{
+    height: 39px;
+    background-color: #252F3E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/*Box-1 For All*/
+.panel-all{
+    font-weight: bold;
+}
+.panel-all i{
+    font-size: 23px;
+}
+
+/*Box-2 For Option*/
+.panel-option{
+    width: 67%;
+    font-size: 15px;
+}
+.panel-option p{
+    display: inline;
+    padding-left: 9px;
+}
+
+/*Box-3 For Download App*/
+.panel-app{
+    font-size: 18px;
+    font-weight: 750;
+}
+/*Panel Bar Section End*/
+
+/*Hero Section Start*/
+.hero-section{
+    background-image: url(Hero_Box.jpg);
+    background-size: cover;
+    height: 253px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero-text{
+    background-color: #f5f6f6;
+    color: black;
+    font-size: 14px;
+    padding: 7px;
+    width: 96%;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-text a{
+    text-decoration: none;
+    color: #007185;
+}
+.hero-text a:hover{
+    color: red;
+}
+/*Hero Section End*/
+
+/*Shopping Section Start*/
+.shopping-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #EFC9C9;
+    display: flex;
+}
+.box-create{
+    height: 359px;
+    /* border: 2px solid black; */
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 10px;
+}
+.box_content{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box_content a{
+    text-decoration: none;
+    color: #007185;
+}
+.box-1_image{
+    background-image: url(Shopping_Box-1.jpg);
+    height: 293px;
+    padding: 0px 20px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box-2_image{
+    background-image: url(Shopping_Box-2.jpg);
+    height: 293px;
+    padding: 0px 20px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box-3_image{
+    background-image: url(Shopping_Box-3.jpg);
+    height: 293px;
+    padding: 0px 20px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.box-4_image{
+    background-image: url(Shopping_Box-4.jpg);
+    height: 293px;
+    padding: 0px 20px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
