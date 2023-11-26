@@ -2,7 +2,7 @@
 
 A simple HTML and CSS project that recreates the user interface of Amazon.com. This project serves as a practice exercise for web development, focusing on the frontend design and layout using only HTML and CSS.
 
-<img src="#">
+<img src="https://github.com/Bishal-5/Amazon-Clone/blob/main/Amazon-Clone/Screenshot/Amazon.jpeg">
 <h2>Technologies Used:</h2>
 <ul>
   <li>HTML</li>
