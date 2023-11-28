@@ -1,4 +1,4 @@
-# Amazon-clone
+# Amazon-Clone
 
 A simple HTML and CSS project that recreates the user interface of Amazon.com. This project serves as a practice exercise for web development, focusing on the frontend design and layout using only HTML and CSS.
 
