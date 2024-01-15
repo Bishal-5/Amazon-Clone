@@ -18,5 +18,5 @@ Contributions are welcome! If you find a bug or have suggestions for improvement
 Inspiration drawn from the Amazon.com website.
 
 <h2>Made by</h2>
-<li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
-<li><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">LinkedIN</a></li>
+<li><strong>GitHub </strong><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
+<li><strong>LinkedIN </strong><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">Bishal Naskar</a></li>
